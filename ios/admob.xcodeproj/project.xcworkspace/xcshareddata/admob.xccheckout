@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4507A702-7D47-4684-9F98-ADC0028A1E72</string>
+	<key>IDESourceControlProjectName</key>
+	<string>admob</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C2F32EB13CE28E770BC598AB38DE5A1D6875FDFE</key>
+		<string>https://github.com/appcelerator-modules/ti.admob.git</string>
+		<key>e2c0e5af-1f62-0410-9612-f3e7aa372c81++505</key>
+		<string>https://svn.yalla-ya.net:11447/playground/trunk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ios/admob.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C2F32EB13CE28E770BC598AB38DE5A1D6875FDFE</key>
+		<string>../../..</string>
+		<key>e2c0e5af-1f62-0410-9612-f3e7aa372c81++505</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>e2c0e5af-1f62-0410-9612-f3e7aa372c81++505</key>
+		<string>https://svn.yalla-ya.net:11447/playground</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/appcelerator-modules/ti.admob.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C2F32EB13CE28E770BC598AB38DE5A1D6875FDFE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>e2c0e5af-1f62-0410-9612-f3e7aa372c81++505</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C2F32EB13CE28E770BC598AB38DE5A1D6875FDFE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ti.admob</string>
+		</dict>
+	</array>
+</dict>
+</plist>

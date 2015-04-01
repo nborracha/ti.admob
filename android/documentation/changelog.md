@@ -1,5 +1,7 @@
 # Change Log
 <pre>
+v2.1.4.1.NB Added support for Interstitial Ad. (@nborracha)
+
 v2.1.4  Added isGooglePlayServicesAvailable method [TIMODOPEN-461]
 
 v2.1.3  Updating to use google-play-services library [TIMODOPEN-454]
